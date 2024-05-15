@@ -1,0 +1,8 @@
+config.toml1
+vendor
+/.idea
+log
+go.sum
+.DS_Store
+api.linux
+3.go
